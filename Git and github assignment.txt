@@ -1,0 +1,25 @@
+Ques 1.   what is git?
+
+Answer. Git gives each developer a local copy of the full development history, and changes are         copied from one such repository to another. These changes are imported as added                  development branches and can be merged in the same way as a locally developed branch.
+
+Ques 2. What do you understand by the term ‘Version control System'?
+answer. Version control helps teams solve these kinds of problems, tracking every individual         change by each contributor and helping prevent concurrent work from conflicting. Changes         made in one part of the software can be incompatible with those made by another         developer working at the same time.
+
+Ques 3. What is github?
+Answer. GitHub is a code hosting platform for version control and collaboration. It lets you and         others work together on projects from anywhere. This tutorial teaches you GitHub          essentials like repositories, branches, commits, and pull requests.
+
+Ques 4. mention some popular Git hosting services.
+Answer. GitHub. The number one, at least in terms of popularity, is definitely GitHub – the most         famous web-based Git repository hosting service. Officially over 70 million users are         registered there. This is not a coincidence as GitHub provides many useful features and         is in many cases free, e.g. for open-source projects.
+
+Ques 5. Different types of version control system?
+Answer. There are two types of version control - 
+          centralized and distributed.
+
+Ques 6. What benefits come with using GIT?
+Answer.It's used for storing, tracking, and collaborating on software projects. It makes it easy        for developers to share code files and collaborate with fellow developers on open-source        projects. GitHub also serves as a social networking site where developers can openly        network, collaborate, and pitch their work.
+
+Ques 7. What is a Git repository?
+Answer. A repository contains all of your project's files and each file's revision history. You         can discuss and manage your project's work within the repository.
+
+Ques 8. How can you initialize a repository in Git?
+Answer. The git init command creates a new Git repository. It can be used to convert an         existing, unversioned project to a Git repository or initialize a new, empty repository.        Most other Git commands are not available outside of an initialized repository, so this        is usually the first command you'll run in a new project.
