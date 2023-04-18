@@ -1,0 +1,27 @@
+Q 1  What is a computer?
+A computer is a device that accepts information (in the form of digitalized data) and manipulates it for some result based on a program, software, or sequence of instructions on how the data is to be processed.
+
+ Q 2 What is a RAM in computer?
+RAM is a common computing acronym that stands for random-access memory. Sometimes it's called PC memory or just memory. In essence, RAM is your computer or laptop's short-term memory. It's where the data is stored that your computer processor needs to run your applications and open your files.
+
+Q 3  where is data stored in a computer
+Hard Disk Drives: a device that reads and writes data to the hard disk. Data is copied from the computer's main memory (random-access memory or RAM), and then written to the hard disk. The drive is the mechanical device that writes the data to the disk.
+
+Q 4 what is that input device used to type text and numbers on a document in the computer system  ?
+
+The keyboard is the usual text input device for a computer. Alternatives include the scanner for printed text, with the input processed by optical character recognition (OCR) software, and the microphone for spoken text, with the input processed by speech recognition software 
+
+ Q 5 What are output devices?
+An output device allows data to be transmitted by the computer in a human-friendly form, for example, sound being played through a speaker. Monitor - The main output device of a computer. It forms images by converting electrical energy into light in the form of tiny dots on the screen called pixels.
+
+
+Q 6 Which is that  input device that allows a user to move the cursor or pointer on the screen?
+the mouse input device allow the user to move the pointer on the screen .
+
+
+Q 7  Which language  is directly understood by the computer without a translation program?
+  ans 7 the Binary language (0's and 1's ) the computer  direclty understood in the program .
+
+
+ Q 8 What are input devices ?
+An input device in computing is a piece of computer hardware equipment used to supply a data processing system including a computer or information appliance with control and data signals. Keyboards, scanners, mouses, joysticks and digital cameras are examples of input devices.
